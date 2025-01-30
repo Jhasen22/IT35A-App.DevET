@@ -1,0 +1,56 @@
+CleanEarth Project Overview
+
+Goal
+By offering a platform for people and groups to plan, participate in, and monitor neighborhood clean-up events, CleanEarth hopes to promote community involvement in environmental cleanup initiatives. The software supports the Sustainable Development Goals (SDGs), especially Climate Action (SDG 13) and Life on Land (SDG 15), by promoting group responsibility and action.
+
+Roles
+As a mobile/web app developer, the project involves designing and developing a user-friendly application that enables users to:
+• Plan, manage, and track community clean-up events.
+• Connect with like-minded individuals and organizations.
+• Contribute directly to reducing environmental pollution through coordinated efforts.
+
+Target Audience
+The app is designed for:
+• Community members passionate about sustainability.
+• Local government organizations managing urban clean-ups.
+• Volunteers eager to participate in environmental initiatives.
+• Environmental NGOs and activists advocating for a cleaner planet.
+• Educational institutions looking for community service projects.
+
+Problem Statement
+Unplanned and dispersed cleanup efforts plague both urban and rural regions, resulting in poor waste management and ongoing environmental deterioration. CleanEarth promotes long-term sustainable practices by offering a centralized, cooperative platform for planning clean-up drives.
+
+Objectives
+• Increase awareness and responsibility for environmental conservation.
+• Streamline the organization and monitoring of clean-up events.
+• Enable direct contributions to reducing waste and pollution.
+• Offer a progress-tracking and experience-sharing system to celebrate success.
+
+Key SDG Contributions
+SDG 13: Climate Action
+• Reducing waste and pollution improves air and soil quality, mitigating environmental impact.
+SDG 15: Life on Land
+• Protecting natural ecosystems through waste removal supports biodiversity and land restoration.
+
+Core Features
+• Event Creation & Management: Users can plan, schedule, and oversee clean-up events.
+• Volunteer Sign-Up: Participants can register for clean-up initiatives based on location and interests.
+• Leaderboard & Rewards: Encourages community participation through friendly competition.
+• Resource Hub: Provides guidelines on waste disposal, event planning, and sustainable practices.
+
+Technical Architecture
+• Frontend: React Native (for cross-platform mobile development) / Vue.js or React.js (for web).
+• Backend: Node.js with Express.js / Django (for APIs and data management).
+• Database: PostgreSQL / Firebase for real-time event tracking.
+• Hosting & Deployment: AWS / Google Cloud / Firebase.
+
+Research & Evidence
+The app will be informed by successful environmental programs and research, including:
+
+https://www.un.org/sustainabledevelopment/
+
+https://chooser.crossref.org/?doi=10.1515%2F9780804782692-005
+
+https://www.ejsit-journal.com/index.php/ejsit/article/view/365
+
+https://le.uwpress.org/content/86/4/785￼Enter
